@@ -1,0 +1,1 @@
+c:\users\cefalo\documents\visual studio 2015\Projects\AzureSqlDemo\AzureSqlDemo\bin\Debug\AzureSqlDemo.exe.config
